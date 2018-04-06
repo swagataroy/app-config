@@ -19,4 +19,4 @@ quoteServiceURL: http://quote-service-dev.cfapps.io/quote
 spring: # <---NEW SECTION
   cloud:
     services:
-      registrationMethod: direct
+      registrationMethod: route
