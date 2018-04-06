@@ -15,3 +15,8 @@ greeting:
   displayFortune: true
 
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
+
+spring: # <---NEW SECTION
+  cloud:
+    services:
+      registrationMethod: direct
