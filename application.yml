@@ -20,4 +20,6 @@ spring: # <---NEW SECTION
   cloud:
     services:
       registrationMethod: route
-      
+  
+ribbon: # <---NEW SECTION
+  IsSecure: true
