@@ -22,4 +22,4 @@ spring: # <---NEW SECTION
       registrationMethod: route
   
 ribbon: # <---NEW SECTION
-  IsSecure: true
+  IsSecure: false
