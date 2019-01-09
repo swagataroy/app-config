@@ -13,5 +13,6 @@ logging: # <----New sections below
 
 greeting:
   displayFortune: true
+  swagatatesting: Hi there!
 
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
